@@ -1,4 +1,7 @@
 
+
+
+
 # TheMathHorizon
 
 Welcome to **TheMathHorizon** — where mathematics becomes intuitive, accessible, and truly enjoyable for everyone.
@@ -37,8 +40,6 @@ Mathematics is woven into the fabric of human existence. A five-year-old using f
 - 🧠 **Simple Explanations**: Complex concepts explained in plain English
 - 🎮 **Engaging Learning**: Games, quizzes, and challenges to reinforce concepts
 - 📱 **Responsive Design**: Learn on desktop, tablet, or mobile device
-- 🔄 **Progress Tracking**: Monitor your learning journey
-- 💬 **Community Support**: Learn alongside others and get help when needed
 
 ---
 
@@ -47,18 +48,3 @@ Mathematics is woven into the fabric of human existence. A five-year-old using f
 ### For Users
 Simply visit our website and start exploring! No sign-up required to browse. Create an account to track your progress.
 
-### For Developers
-Want to contribute? We'd love your help!
-
-```bash
-# Clone the repository
-git clone https://github.com/DevanshPandeyCode/TheMathHorizon.git
-
-# Navigate to the project directory
-cd TheMathHorizon
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
